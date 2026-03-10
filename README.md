@@ -1,7 +1,5 @@
 # Tangle: Chronological Association of Event Logging
 
-This README is generated from `/Users/ahmadbyagowi/Desktop/Tangle.docx`.
-It includes all extractable text and diagram material from that DOCX file.
 
 ## Problem Statement
 
@@ -125,7 +123,3 @@ time, each node calculates the window of uncertainty. Window of uncertainty is
 a statistical measure of precision. If the precision is higher (tighter) than
 the logging frequency, the logging will be considered entangled.
 
-## Mapping Time
-
-The source DOCX ends at this heading and does not include additional body text
-after it.
