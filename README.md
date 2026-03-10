@@ -318,9 +318,8 @@ The easiest way to understand the current code is:
 
 That is the core of the prototype.
 
-## Authors
+## Contributors
 
-The protocol header lists:
 - [Ahmad Byagowi](https://github.com/ahmadexp)
 - Lakshmi Pradeep `<lpradeep@meta.com>`
 - Hari Prasad Kalavakunta `<hkalavakunta@meta.com>`
