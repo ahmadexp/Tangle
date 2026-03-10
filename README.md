@@ -29,30 +29,8 @@ The first DOCX diagram is composed of Word drawing objects (text boxes,
 connectors, and shapes). The extracted labels are preserved below, and the
 layout is represented with the following reconstructed diagram:
 
-```mermaid
-flowchart LR
-  A["Machine A<br/>Machine Local Time"]
-  B["Machine B<br/>Machine Local Time"]
-  C["Machine C<br/>Machine Local Time"]
-  A <-->|"different machines"| B
-  B <-->|"different machines"| C
-```
+<img width="996" height="702" alt="Screenshot 2026-03-10 at 7 09 35 PM" src="https://github.com/user-attachments/assets/85f60d58-e4c8-44b8-963b-4ee547da0c1d" />
 
-### Labels Extracted From Diagram 1
-
-- `Machine Local Time`
-- `different machines`
-- `Machine A`
-- `Machine B`
-- `Machine C`
-
-### Event Labels Extracted From Diagram 1
-
-- Machine A events: `1234`, `1235`, `1236`, `1237`, `1238`, `1239`, `1240`
-- Machine B events: `1282`, `1283`, `1284`, `1403`, `1404`, `1405`, `1406`,
-  `1407`, `1653`, `1654`, `1655`, `1656`, `1657`
-- Machine C events: `2044`, `2045`, `2046`, `2047`, `2048`, `2049`, `2050`,
-  `2051`, `2077`, `2078`
 
 ## Background
 
